@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new Blog",
+      "body": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+      "likes": 30
+    },
+    {
+      "id": 2,
+      "title": "Where can I get some?",
+      "body": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "likes": 45
+    },
+    {
+      "title": "Lorem ipsum",
+      "body": "Lorem ipsum dolor sit amet. Sit cupiditate libero ut veritatis explicabo est repellat blanditiis qui consequatur quia. Qui porro galisum nam corrupti ratione rem doloribus dolorum qui tempora laboriosam et obcaecati quisquam. Ut inventore blanditiis et quam tempore est iste culpa et animi vitae nam quas quasi. In eveniet recusandae qui dolores similique et minus eaque.\n\nUt officiis voluptatum vel iusto doloribus ut quia nisi ut dolores suscipit sed voluptas exercitationem sed asperiores distinctio! Et alias rerum eum error omnis in alias similique et perspiciatis sapiente. Sit veniam voluptatem ut maiores omnis non dicta obcaecati id totam necessitatibus est obcaecati corrupti. Et accusantium placeat aut porro quaerat est dolorem nisi ut ipsam error ut velit fugiat nam consequatur aliquam.\n\nUt ratione enim optio pariatur ea officia sit atque quia quo culpa provident est soluta sint. Eos laborum molestias ad tenetur animi sit dolores culpa est distinctio animi At officia Quis qui iusto neque rem debitis Quis. Est consectetur possimus est obcaecati officiis et velit totam sed cumque neque eum enim sequi non reiciendis temporibus qui commodi minus. Eum quia aspernatur est consequatur harum aut autem architecto.",
+      "likes": 0,
+      "id": 4
+    },
+    {
+      "title": "Hello World",
+      "body": "Lorem ipsum dolor sit amet. Et debitis quia nam odit eligendi est vero amet. Est modi corporis eos sequi suscipit doloribus omnis et illo officia vel repellat rerum vel pariatur. Qui facilis mollitia quo reprehenderit nostrum aut dicta error quo aliquam aspernatur est maxime tempore sed provident similique.\n\nVel quis molestiae ut quia omnis est reiciendis doloremque quo ipsum sunt qui eveniet rerum et dolorem in praesentium veniam! Non dolores sequi aut earum quod ex aspernatur quisquam tenetur eaque sit saepe maxime aut dicta doloremque aut maiores neque. Sit assumenda ipsum non dolor corporis est quae assumenda sit ullam consequatur aut sapiente autem eos dicta earum. Sed inventore vitae non incidunt illo qui rerum repellat et quod dignissimos in blanditiis temporibus qui facilis velit et perferendis esse.\n\nAut eaque excepturi ab odit accusantium aut excepturi vitae At quasi corporis ut nihil illo. Et earum natus et omnis facilis et quibusdam exercitationem ut rerum deleniti aut voluptas voluptatem eum voluptatem adipisci? Ut alias enim eos itaque reiciendis vel Quis vero. Quo impedit ratione et numquam fugit sit ullam quibusdam ut suscipit ullam non quod doloremque ut eius quos.",
+      "likes": 0,
+      "id": 5
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or React?",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
